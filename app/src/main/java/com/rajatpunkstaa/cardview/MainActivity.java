@@ -20,6 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
+    //Created by Rajat Gupta on 18/08/16 
 
     private RecyclerView recyclerView;
     private AlbumsAdapter adapter;

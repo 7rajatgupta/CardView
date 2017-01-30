@@ -5,10 +5,10 @@
 </h1>
 
 
-<h1>
+<h3>
 <p>A card is a sheet of material that serves as an entry point to more detailed information.
 Cards may contain a photo, text, and a link about a single subject. They may display content containing elements of varying size, such as photos with captions of variable length.</p>
-</h1>
+</h3>
 
 <h1>
 <img src="https://storage.googleapis.com/material-design/publish/material_v_10/assets/0Bzhp5Z4wHba3cXVadmtJa19wT3M/components_cards_content1.png" width="360" height="640" />

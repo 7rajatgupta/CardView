@@ -1,4 +1,4 @@
-package com.delaroystudios.cardview;
+package com.rajatpunkstaa.cardview;
 
 /**
  * Created by Rajat Gupta on 18/05/16.

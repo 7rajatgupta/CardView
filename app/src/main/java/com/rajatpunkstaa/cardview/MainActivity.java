@@ -1,4 +1,4 @@
-package com.delaroystudios.cardview;
+package com.rajatpunkstaa.cardview;
 
 import android.content.res.Resources;
 import android.graphics.Rect;

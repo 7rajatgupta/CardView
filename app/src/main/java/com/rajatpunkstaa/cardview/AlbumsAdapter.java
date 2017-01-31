@@ -1,4 +1,4 @@
-package com.delaroystudios.cardview;
+package com.rajatpunkstaa.cardview;
 
 import android.content.Context;
 import android.support.v7.widget.PopupMenu;

@@ -64,6 +64,7 @@ public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyViewHold
             @Override
             public void onClick(View view) {
                 showPopupMenu(holder.overflow);
+                Toast.makeText(this, "Thank you for trying this app, Find out more...",Toast.LENGTH_SHORT).show();
             }
         });
     }

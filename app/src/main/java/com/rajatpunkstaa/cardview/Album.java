@@ -46,6 +46,6 @@ public class Album {
     }
 
     public void setFavorite(boolean favorite){
-      isFavorite = value
+      isFavorite = favorite
     }
 }

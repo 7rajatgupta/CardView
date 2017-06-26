@@ -5,6 +5,7 @@ package com.rajatpunkstaa.cardview;
  */
 public class Album {
     private String name;
+    private Boolean isFavorite;
     private int numOfSongs;
     private int thumbnail;
 
@@ -39,5 +40,12 @@ public class Album {
 
     public void setThumbnail(int thumbnail) {
         this.thumbnail = thumbnail;
+    }
+    public boolean isFavorite(){
+      return isFavorite;
+    }
+
+    public void setFavorite(boolean favorite){
+      isFavorite = value
     }
 }

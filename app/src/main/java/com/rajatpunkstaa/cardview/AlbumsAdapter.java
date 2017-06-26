@@ -79,6 +79,7 @@ public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyViewHold
         inflater.inflate(R.menu.menu_album, popup.getMenu());
         popup.setOnMenuItemClickListener(new MyMenuItemClickListener());
         popup.show();
+        Glide.with(mContext).load(album.getThumbnail()).into(holder.thumbnail);
     }
 
     /**

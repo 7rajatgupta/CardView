@@ -1,5 +1,5 @@
 <h1>Cards</h1>
- <h4>Android Material Design CardView general template designed by <a href="https://github.com/rajatpunkstaa" name="Rajat Gupta">Rajat Gupta</a>  </h4>
+ <h4>Android Material Design CardView general template designed by <a href="https://github.com/7rajatgupta" name="Rajat Gupta">Rajat Gupta</a>  </h4>
  <h1>
  <img src="https://storage.googleapis.com/material-design/publish/material_v_10/assets/0Bzhp5Z4wHba3TVlLZ3RQUDBSX3c/components_cards_action6.png" align="center" width="760" height="630" /> <br><br>
  </h1>
